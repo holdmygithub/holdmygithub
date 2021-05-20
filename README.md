@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning and Data Science
 - 🌱 I’m currently learning Big Data
 - 💞️ I’m looking to collaborate on Data Science projects
-- 📫 Email me on ashaga45@gmail.com
+- 📫 Email me on ashwinkraghu@gmail.com
 
 <!---
 holdmygithub/holdmygithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
