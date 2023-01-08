@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashwin K Raghu
 - 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently learning Big Data
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 Email me on ashwinkraghu@gmail.com
 
